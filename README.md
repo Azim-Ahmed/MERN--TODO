@@ -1,4 +1,4 @@
-# Complete MERN Stack Todo Application
+# MERN Todo Application
 
 Hello 👋, I'm Azim Uddin Ahamed. At this repository i built a `Complete MERN Stack TODO Application ☋`. Using `Node.js, Express.js, MongoDB, React.js, Redux.js & Tailwind CSS`.
 
